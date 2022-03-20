@@ -22,7 +22,7 @@ This was done with matlab
 The assumpion is made as the first image is the user's iris at first and the second image is his expanded iris which he showed after closing and opening his eyes 
 again according to the procedure. Now both the images are matched with the previously stored images.
 
-### Results:
+### RESULTS:
 1. Iris code generation process:\
 ![image](/images/iriscode.png)
 
