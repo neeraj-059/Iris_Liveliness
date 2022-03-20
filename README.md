@@ -23,17 +23,17 @@ The assumpion is made as the first image is the user's iris at first and the sec
 again according to the procedure. Now both the images are matched with the previously stored images.
 
 ### Results:
-1. Iris code generation process:
+1. Iris code generation process:\
 ![image](/images/iriscode.png)
 
-Done in ModelSim
+Done in ModelSim\
 ![image](/images/codegen.png)
 
-2. Matched
-Iris right after the authentication process begins process matched with the that of the database: 
+2. Matched\
+Iris right after the authentication process begins process matched with the that of the database:\
 ![image](/images/id2.png)
 
-When user closes and opens his eyes again after 1st step, the expanded iris is matched to that of the database:
+When user closes and opens his eyes again after 1st step, the expanded iris is matched to that of the database:\
 ![image](/images/id3.png)
 
 Hence the user is authorised and there isn't a trace of fake eye.
